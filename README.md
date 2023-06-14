@@ -1,5 +1,6 @@
 # Evento de MMA
 Programa de programación orientada a objetos en C++ en el que se simula una pelea de MMA, en la que se tienen dos peleadores, tres jueces y un arbitro.
+Puedes crear tus peleadores con diferentes cualidades, no obstante, 
 
 ### Restricciones
 - No se pueden crear varias peleas, se tiene que volver a correr el código para que se pueda generar otra pelea.
