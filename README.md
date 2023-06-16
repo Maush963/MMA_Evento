@@ -27,4 +27,4 @@ Los puntos se suman y se da el resultado final, puede haber ***victoria, derrota
      (53:87) 
   *dentro de la función hacerpelea()*
 
-               (╯°□°）╯︵ ┻━┻
+(╯°□°）╯︵ ┻━┻
