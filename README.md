@@ -1,7 +1,16 @@
 # Evento de MMA
-Programa de POO en C++ en el que se simula una pelea de MMA, en la que se tienen dos peleadores, tres jueces y un arbitro.
+#### Proyecto - TC1030.301
+#### Profesor: Benjamín Valdés Aguirre
+#### Nombre: Mauricio Salas Hernández
+#### Matrícula: A01710309
+
+## Contexto del Proyecto
+En este programa se simula una pelea de MMA, en la que se tienen dos peleadores, tres jueces y un árbitro.
 Puedes crear tus peleadores con diferentes cualidades, las características de los peleadores no repercuten en el peleador victorioso.
 Solo se pueden crear peleadores, los jueces y el albritro siempre van a ser los mismos.
+Cada uno de los jueces asignan puntos (*son generados al azar*) a los peleadores, cada uno puede dar un **máximo de 20 pts.**
+Los puntos se suman y se da el resultado final, puede haber ***victoria, derrota o empate.***
+
 
 ### Restricciones
 - No se pueden crear varias peleas, se tiene que volver a correr el código para que se pueda generar otra pelea.
