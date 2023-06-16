@@ -17,8 +17,8 @@ Los puntos se suman y se da el resultado final, puede haber ***victoria, derrota
 - No se pueden crear varias peleas, se tiene que volver a correr el código para que se pueda generar otra pelea.
 - No se están usando getlines, por lo que los strings solo reciben palabras sin espacio.
 - Al momento de poner las peleas, victorias, derrotas y empates tiene que tener sentido para que el porcentaje de victoria también lo haga.
-- No existen validaciones del tipo de dato, sin embargo, si se comete un error de dedo sigue corriendo. (exceptuando peleas y victorias)
-- Se ocupan las siguientes bibliotecas: *iostream, string, ctime*
+- No existen validaciones del tipo de dato, sin embargo, si se comete un error de dedo sigue corriendo. (exceptuando peleas y victorias).
+- Se ocupan las siguientes bibliotecas: *iostream, string, ctime*.
 
 
 ### Correciones
