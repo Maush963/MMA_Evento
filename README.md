@@ -32,4 +32,5 @@ Los puntos se suman y se da el resultado final, puede haber ***victoria, derrota
 
 
 Eso es todo gracias.
+
 (╯°□°）╯︵ ┻━┻
