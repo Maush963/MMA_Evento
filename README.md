@@ -13,8 +13,16 @@ Cada uno de los jueces asignan puntos (*son generados al azar*) a los peleadores
 Los puntos se suman y se da el resultado final, puede haber ***victoria, derrota o empate.***
 
 
-### Restricciones
+### Restricciones/Consideraciones
 - No se pueden crear varias peleas, se tiene que volver a correr el código para que se pueda generar otra pelea.
 - No se están usando getlines, por lo que los strings solo reciben palabras sin espacio.
 - Al momento de poner las peleas, victorias, derrotas y empates tiene que tener sentido para que el porcentaje de victoria también lo haga.
 - No existen validaciones del tipo de dato, sin embargo, si se comete un error de dedo sigue corriendo. (exceptuando peleas y victorias)
+
+
+### Correciones
+* No se habían incluido consideraciones en el proyecto, estas ya han sido implementadas.
+* No existía polimorfismo dentro del proyecto. Ahora ya esta implementado, esto se puede ver específicamente en las siguientes líneas de código:
+#### Archivo "mma_event2.h"
+     (53:87) 
+  *dentro de la función hacerpelea()*
