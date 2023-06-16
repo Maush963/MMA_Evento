@@ -6,7 +6,7 @@
 
 ## Contexto del Proyecto
 En este programa se simula una pelea de MMA, en la que se tienen dos peleadores, tres jueces y un árbitro.
-Puedes crear tus peleadores con diferentes cualidades, las características de los peleadores no repercuten en el peleador victorioso.
+Puedes crear tus peleadores con diferentes cualidades, las características de los peleadores *no repercuten* en el peleador victorioso.
 Solo se pueden crear peleadores, los jueces y el albritro siempre van a ser los mismos.
 
 Cada uno de los jueces asignan puntos (*son generados al azar*) a los peleadores, cada uno puede dar un **máximo de 20 pts.**
